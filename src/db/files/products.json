@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"title": "Pizza",
+		"description": "Esta es una pizza",
+		"code": "p1",
+		"price": 200,
+		"status": "T",
+		"stock": 10,
+		"category": "Masas",
+		"thumbnail": "Sin thumbnail"
+	},
+	{
+		"id": 2,
+		"title": "Pizza con muzza",
+		"description": "receta cambiada id 2",
+		"code": "pizza2",
+		"price": 200,
+		"status": "T",
+		"stock": 25,
+		"category": "Masas",
+		"thumbnails": "Sin imagen"
+	},
+	{
+		"id": 3,
+		"title": "Figazza",
+		"description": "Como se mezclan los ingredientes",
+		"code": "figazza",
+		"price": 350,
+		"status": "T",
+		"stock": 10,
+		"category": "Masas",
+		"thumbnails": "Sin imagen"
+	},
+	{
+		"id": 4,
+		"title": "Pan casero",
+		"description": "Como se mezclan los ingredientes",
+		"code": "pancasero",
+		"price": 350,
+		"status": "T",
+		"stock": 10,
+		"category": "Masas",
+		"thumbnails": "Sin imagen"
+	}
+]
